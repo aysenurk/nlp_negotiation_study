@@ -2,4 +2,4 @@
 
 The Study of NLP in Negotiation Domain
 
-The dataset is acquired from [CaSiNo repo]: https://github.com/kushalchawla/CaSiNo 
+The dataset is acquired from CaSiNo repo: https://github.com/kushalchawla/CaSiNo 
